@@ -11,6 +11,7 @@ int main ()
 			printf("\nIts Monday.");
 			break;
 			//tôi muốn sửa ở đây
+			//ủa
 		case 2:
 			printf("\nIts Tuesday");
 			break;
