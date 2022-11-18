@@ -10,6 +10,7 @@ int main ()
 		case 1:
 			printf("\nIts Monday.");
 			break;
+			//tôi muốn sửa ở đây
 		case 2:
 			printf("\nIts Tuesday");
 			break;
